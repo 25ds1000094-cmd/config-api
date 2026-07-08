@@ -1,3 +1,5 @@
 NUM_WORKERS=9
 APP_DEBUG=true
 APP_LOG_LEVEL=error
+config.development.yaml:
+workers: 15
